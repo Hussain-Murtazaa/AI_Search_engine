@@ -1,0 +1,17 @@
+python-dotenv
+streamlit
+
+langchain==0.3.11
+langchain-core==0.3.33
+langchain-community==0.3.11
+langchainhub==0.1.21
+
+langchain-groq
+groq
+
+duckduckgo-search
+wikipedia
+arxiv
+
+tqdm
+requests
