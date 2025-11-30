@@ -73,6 +73,7 @@ AI_Search_engine/
 ├── requirements.txt      # Python dependencies
 ├── .env                  # Environment variables (not included)
 └── README.md            # This file
+
 💡 Example Queries
 
 "Who is the current president of Pakistan?"
