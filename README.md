@@ -1,3 +1,4 @@
+![AI-Search-Engine Banner](https://github.com/Hussain-Murtazaa/Conversational-Groq-Chatbot/raw/main/Bannerr.png)
 # 🤖 AI Search Engine - ReAct Agent
 
 An intelligent search assistant powered by AI reasoning that uses multiple tools (Web Search, Wikipedia, arXiv) to find and synthesize accurate information in real-time.
